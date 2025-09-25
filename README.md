@@ -1,6 +1,14 @@
 # Smart Safety Helmet 🚨🪖
 **Year 1 - Fundamentals of Computing Project**
 
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+![Status](https://img.shields.io/badge/Status-Active-blue.svg)
+![Made With](https://img.shields.io/badge/Made%20With-React%20%7C%20Firebase%20%7C%20ESP32-orange.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+![Repo Size](https://img.shields.io/github/repo-size/your-username/year1-fundamentals-smart-safety-helmet)
+![Last Commit](https://img.shields.io/github/last-commit/your-username/year1-fundamentals-smart-safety-helmet)
+
 The Smart Safety Helmet is an IoT-based safety solution developed as part of the Year 1 "Fundamentals of Computing" module. It integrates hardware sensors with modern web technologies to provide **real-time monitoring, instant alerts, and improved worker safety**.
 
 ---
