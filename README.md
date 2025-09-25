@@ -58,9 +58,12 @@ Cloud-based analytics dashboard
 
 Multi-user authentication system
 
+## 📑 Documentation
+[📄 Download Project Documentation (PDF)](docs/SmartHelmet-Documentation.pdf)
+
 📸 Screenshots
 
-
+![Helmet Dashboard](assets/images/dashboard.png)
 
 📜 License
 
