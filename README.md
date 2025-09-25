@@ -73,6 +73,21 @@ Multi-user authentication system
 
 ![Helmet Dashboard](assets/images/dashboard.png)
 
+## 🖥️ ESP32 Arduino Code
+
+The `esp32-code/` folder contains the Arduino source code for the Smart Safety Helmet project.
+
+- **helmet_main.ino** → Main Arduino sketch for ESP32
+- **sensors.cpp** → Sensor handling logic (Gas, Temp, Humidity, Heart rate, Fall detection)
+- **sensors.h** → Header file for sensor definitions
+
+To upload:
+1. Open `helmet_main.ino` in Arduino IDE
+2. Select **Board: ESP32 Dev Module**
+3. Connect helmet ESP32 via USB
+4. Click **Upload**
+
+
 📜 License
 
 This project is developed for educational purposes as part of the Year 1 - Fundamentals of Computing module.
